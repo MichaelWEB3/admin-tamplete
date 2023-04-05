@@ -1,6 +1,5 @@
 
 # Dash Board admin tamplete  💻 
-# Intuitive book library
  🖊 
 Softwere dash board com autenticaçao e proteçao de toras.
 Relógio interativo !!!!
